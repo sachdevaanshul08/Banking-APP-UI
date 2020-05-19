@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "transactionType": "Grocery",
+      "serviceProvider": "Eataly Downtown",
+      "payment": "-$60.40",
+      "date": "Today",
+      "isCredited": false
+    },
+    {
+      "transactionType": "Payment",
+      "serviceProvider": "Payment From YOYO",
+      "payment": "+$600.40",
+      "date": "Today",
+      "isCredited": true
+    },
+    {
+      "transactionType": "Transport",
+      "serviceProvider": "Uber Pool",
+      "payment": "-$6.40",
+      "date": "Today",
+      "isCredited": false
+    },
+    {
+      "transactionType": "Grocery",
+      "serviceProvider": "EMart",
+      "payment": "-$140.40",
+      "date": "Yesterday",
+      "isCredited": false
+    },
+    {
+      "transactionType": "Payment",
+      "serviceProvider": "Payment From Andre",
+      "payment": "+$140.40",
+      "date": "27 Aug",
+      "isCredited": true
+    },
+    {
+      "transactionType": "Phone bill",
+      "serviceProvider": "Airtel",
+      "payment": "-$10.40",
+      "date": "25 Aug",
+      "isCredited": false
+    }
+  ]
+}
+
+
